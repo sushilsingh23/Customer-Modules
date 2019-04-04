@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CapStore
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: VIKASHJA
+Implementation-Vendor-Id: com.capgemini.capstore
+Build-Jdk: 1.8.0_91
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CapStore
+Created-By: Maven Integration for Eclipse
+
